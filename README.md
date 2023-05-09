@@ -1,2 +1,2 @@
 # stats
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![staviasz Status](https://github-readme-stats.vercel.app/api?username=staviasz&show_icons=true)
