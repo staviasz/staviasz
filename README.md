@@ -24,6 +24,20 @@
 
 
 
+👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por desafios de programação. Atualmente, estou aprofundando meus conhecimentos em Python e JavaScript/TypeScript.
+
+🔧 Tenho experiência no desenvolvimento de aplicações backend, criando APIs robustas com Django Rest Framework e Node.js, utilizando tanto bancos de dados relacionais como PostgreSQL, MySQL e MariaDB, quanto bancos de dados não relacionais como MongoDB.
+
+💻 No mundo do front-end, sou versátil em JavaScript puro e tenho uma queda por React. Isso me permite construir aplicações full-stack de ponta a ponta, combinando a potência do Django com o poder do JavaScript/TypeScript.
+
+🚀 Estou sempre em busca de novos desafios e projetos interessantes. Acredito na importância da colaboração e compartilhamento de conhecimento na comunidade de desenvolvedores.
+
+🎶 Nas horas vagas, também sou um apreciador de música e costumo encontrar inspiração nos ritmos para aprimorar meu código e encontrar soluções criativas.
+
+📫 Vamos colaborar ou bater um papo? Fique à vontade para me contatar!
+
+Happy coding! 😄
+
 
 
 
